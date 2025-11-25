@@ -1,7 +1,7 @@
 const CACHE_NAME = 'face-clicker-cache-v1';
 const urlsToCache = [
   './',
-  './joeclicker.html',
+  './index.html',
   './manifest.json',
   './joe.png'
 ];
